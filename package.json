@@ -1,0 +1,30 @@
+{
+    "name": "random-www",
+    "version": "1.0.0",
+    "description": "Generate a random number",
+    "main": "index.js",
+    "scripts": {
+      "test": "ava"
+    },
+    "dependencies": {
+      "is-number": "^2.1.0"
+    },
+    "devDependencies": {
+      "ava": "^0.15.2"
+    },
+    "keywords": [
+      "random",
+      "number",
+      "generator"
+    ],
+    "author": "weishengbin",
+    "license": "MIT",
+    "homepage": "https://github.com/weishengbin/random-www",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/weishengbin/random-www.git"
+    },
+    "bugs": {
+      "url": "https://github.com/weishengbin/random-www/issues"
+    }
+  }
