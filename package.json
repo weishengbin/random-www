@@ -26,5 +26,8 @@
     },
     "bugs": {
       "url": "https://github.com/weishengbin/random-www/issues"
+    },
+    "publishConfig": {
+      "access": "public"
     }
   }
