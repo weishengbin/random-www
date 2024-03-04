@@ -1,5 +1,5 @@
 {
-    "name": "random-www",
+    "name": "@mofei22/random-www",
     "version": "1.0.0",
     "description": "Generate a random number",
     "main": "index.js",
