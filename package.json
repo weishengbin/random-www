@@ -1,6 +1,6 @@
 {
     "name": "@mofei22/random-www",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Generate a random number",
     "main": "index.js",
     "scripts": {
@@ -20,10 +20,10 @@
     ],
     "author": "weishengbin",
     "license": "MIT",
-    "homepage": "https://github.com/weishengbin/random-www",
+    "homepage": "https://github.com/weishengbin/random-www#readme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/weishengbin/random-www"
+        "url": "https://github.com/weishengbin/random-www.git"
     },
     "bugs": {
         "url": "https://github.com/weishengbin/random-www/issues"
